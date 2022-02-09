@@ -100,4 +100,4 @@ export BENCH_DATA_1
 export BENCH_DATA_2
 bench:
 	sleep 60
-	@echo "$$BENCH_DATA_1" | jq -M .
+	@echo "$$BENCH_DATA_2" | jq -M .
