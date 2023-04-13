@@ -8,7 +8,7 @@ define BENCH_DATA_1
       "metrics": [
 	{
 	  "name": "time",
-	  "value": 4.02,
+	  "value": 134.02
 	  "units": "secs"
 	},
 	{
